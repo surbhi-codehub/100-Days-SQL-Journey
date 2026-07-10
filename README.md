@@ -92,8 +92,8 @@ The goal isn't to finish quickly—it's to keep showing up and learning consiste
 
 | Days | Status |
 |------|--------|
-| Day 1–10 | ⬜ |
-| Day 11–20 | ⬜ |
+| Day 1–10 | ✅ Done |
+| Day 11–20 | 🕒 In Progress |
 | Day 21–30 | ⬜ |
 | Day 31–40 | ⬜ |
 | Day 41–50 | ⬜ |
